@@ -1,1 +1,1 @@
-# SergeMartin_HousePrice_Prediction_Project
+# SergeMartin_RealEstatePrice_Prediction_Project
