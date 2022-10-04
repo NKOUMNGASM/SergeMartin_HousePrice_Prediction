@@ -1,1 +1,1 @@
-# SergeMartin_RealEstatePrice_Prediction_Project
+# SergeMartin_RealEstatePrice_Prediction.gitignore
